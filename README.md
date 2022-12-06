@@ -1,2 +1,2 @@
 # miniproject
-my mini project
+Miniproject of cloud
