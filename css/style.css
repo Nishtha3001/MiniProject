@@ -165,6 +165,9 @@ section{
    text-decoration: none;
    color: white;
 }
+#img1{
+   width:120%;
+}
 .count .box-container .box{
    background-color: var(--light-bg);
    border-radius: .5rem;
